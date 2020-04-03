@@ -1,4 +1,4 @@
-package cn.telami.leetcode;
+package cn.telami.leetcode.original;
 
 import java.util.HashMap;
 import java.util.Map;

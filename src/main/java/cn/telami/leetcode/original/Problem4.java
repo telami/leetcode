@@ -1,9 +1,7 @@
-package cn.telami.leetcode;
+package cn.telami.leetcode.original;
 
 import com.google.common.collect.Lists;
-
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
 
 public class Problem4 {
